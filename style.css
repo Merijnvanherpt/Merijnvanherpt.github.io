@@ -70,6 +70,7 @@
   margin-right: 80px;
   margin-left: 280px;
   background-color: #f2f2f2 ;
+
 }
   .Info26  {
   float: left;
@@ -81,6 +82,7 @@
   margin-right: 80px;
   margin-top: 35px;
   background-color: #f2f2f2;
+  margin-bottom: 30px;
 }
     .Info3  {
     color: #333;
@@ -143,6 +145,7 @@
     margin-right: 80px;
     margin-top: 35px;
     background-color: #f2f2f2;
+    margin-bottom: 30px;
   }
   .Info4  {
   color: #333;
@@ -206,6 +209,7 @@
   margin-right: 80px;
   margin-top: 35px;
   background-color: #f2f2f2;
+  margin-bottom: 30px;
 
 }
 .Info5  {
@@ -376,7 +380,7 @@ padding-bottom: 175px;
   color:#c9171e;
   font-weight: 900;
   text-align: center;
-  padding-top: 20px;
+  padding-bottom: 20px;
 }
 .table1  {
 margin-top: 25px;
@@ -384,13 +388,16 @@ margin-left: 75px;
 font-size: 20px;
 float: left;
 background-color: #FFFFFF;
+margin-bottom: 35px;
 }
 .table2  {
   margin-top: 25px;
   margin-left: 60px;
   font-size: 20px;
   float: left;
-  background-color: #FFFFFF
+  background-color: #FFFFFF;
+  margin-bottom: 35px;
+
 }
 li {
   display: inline;
@@ -476,55 +483,5 @@ text-shadow: 2px 0px 0px #c9171e;
   }
 @media (min-width: 1500px) {
 
-  .Info34  {
-    float: left;
-    padding-top: 4%;
-    width: 500px;
-    height: 250px;
-    padding: 10px;
-    border: 10px solid #707070;
-    margin-right: 80px;
-    margin-left: 20px;
-    background-color: #f2f2f2 ;
-
-  }
-    .Info35  {
-      float: left;
-      padding-top: 4%;
-      width: 500px;
-      height: 250px;
-      padding: 10px;
-      border: 10px solid #707070;
-      margin-right: 80px;
-      background-color: #f2f2f2;
-  }
-    .Info36  {
-      float: left;
-    padding-top: 4%;
-    width: 500px;
-    height: 250px;
-    padding: 10px;
-    border: 10px solid #707070;
-    margin-right: 80px;
-    margin-left: 20px;
-    background-color: #f2f2f2 ;
-}
-.Info52  {
-  float: left;
-  width: 1000px;
-  height: 375px;
-  border: 10px solid #707070;
-  margin-right: 40px;
-  margin-left: 40px;
-  background-color: #f2f2f2 ;
-  padding-bottom: 175px;
-}
-.Info5  {
-  color: #333;
-  padding-top:175px;
-  text-align: left;
-  padding-left: 100px;
-  padding-right: 100px;
-  font-family: Oxygen;
 
 }
